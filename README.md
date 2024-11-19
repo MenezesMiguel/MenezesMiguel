@@ -19,13 +19,13 @@ Estou em busca de desafios que me ajudem a me formar como um profissional integr
 ---
 
 ### 📈 Estatísticas do GitHub  
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**MenezesMiguel**&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**MenezesMiguel**&layout=compact&theme=radical)
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelMenezes99&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMenezes99&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Vamos Conectar?  
-- **LinkedIn**: [Miguel Menezes](https://www.linkedin.com/in/miguelmenezes99)  
+- **LinkedIn**: [Miguel Menezes](https://br.linkedin.com/in/menezesgmiguel)
 - **Portfólio**: *Em breve!*  
 - **E-mail**: miguelmenezes99@hotmail.com  
 
