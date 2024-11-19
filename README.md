@@ -11,29 +11,32 @@ Sou estudante de **Engenharia Elétrica** na **Universidade Federal de Minas Ger
 - **Interesses**: Sistemas embarcados, otimização de SEO, e desenvolvimento de APIs RESTful
 
 #### Linguagens de Programação:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-1572B6?style=flat&logo=sqlite&logoColor=white)  
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width: 100%;"></a>
 
 #### Frameworks:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![Stencil.js](https://img.shields.io/badge/Stencil.js-555555?style=flat&logo=stenciljs&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"><img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/stenciljs/stenciljs-plain.svg"><img align="center" alt="Stencil.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stenciljs/stenciljs-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"><img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width: 100%;"></a>
 
 #### Ferramentas de Controle/Gestão:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Agile Methodologies](https://img.shields.io/badge/Agile-FF7900?style=flat&logo=agile&logoColor=white)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg"><img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-plain.svg"><img align="center" alt="Agile" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-plain.svg" style="max-width: 100%;"></a>
 
 #### Outras Habilidades:
-![RESTful API Development](https://img.shields.io/badge/RESTful%20API%20Development-25D366?style=flat&logo=api&logoColor=white)  
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)  
-![CRM](https://img.shields.io/badge/CRM-00A1E4?style=flat&logo=zoho&logoColor=white)  
-![SEO](https://img.shields.io/badge/SEO-0077B5?style=flat&logo=searchengineland&logoColor=white)
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-plain.svg"><img align="center" alt="RESTful API Development" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg"><img align="center" alt="ElasticSearch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/crm/crm-plain.svg"><img align="center" alt="CRM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crm/crm-plain.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/seo/seo-plain.svg"><img align="center" alt="SEO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seo/seo-plain.svg" style="max-width: 100%;"></a>
+
+---
+
   
 
 ### 🌟 O que me motiva?  
