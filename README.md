@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Miguel Menezes  
 
-<!--
-**MenezesMiguel/MenezesMiguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Sobre Mim  
+Sou estudante de **Engenharia Elétrica** na **Universidade Federal de Minas Gerais (UFMG)** e desenvolvedor de software com **4 anos de experiência** em desenvolvimento **full-stack**. Durante minha jornada, descobri uma paixão pelo desenvolvimento de software, que direciona minha trajetória profissional.  
 
-Here are some ideas to get you started:
+### 💻 Tecnologias e Habilidades  
+- **Linguagens**: JavaScript, TypeScript  
+- **Front-End**: React, Stencil.js, Next.js  
+- **Back-End**: Node.js  
+- **Ferramentas**: Git, GitHub, Agile (Scrum)  
+- **Interesses**: Sistemas embarcados, otimização de SEO, e desenvolvimento de APIs RESTful  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 O que me motiva?  
+Sou uma pessoa determinada e comprometida com meus objetivos. Quando encaro um desafio, dedico-me intensamente até encontrar a melhor solução. Busco constantemente ampliar meu conhecimento e contribuir para projetos desafiadores que promovam impacto positivo.
+
+### 🚀 Objetivo Profissional  
+Estou em busca de desafios que me ajudem a me formar como um profissional integral na área de computação, preparado para contribuir com uma visão crítica e um sólido conhecimento técnico em projetos complexos.
+
+---
+
+### 📈 Estatísticas do GitHub  
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelMenezes99&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMenezes99&layout=compact&theme=radical)
+
+---
+
+### 📫 Vamos Conectar?  
+- **LinkedIn**: [Miguel Menezes](https://www.linkedin.com/in/miguelmenezes99)  
+- **Portfólio**: *Em breve!*  
+- **E-mail**: miguelmenezes99@hotmail.com  
+
+✨ _"Nunca paro até alcançar meus objetivos."_  
