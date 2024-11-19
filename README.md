@@ -33,5 +33,5 @@ Estou em busca de desafios que me ajudem a me formar como um profissional integr
 ---
 
 ### 📫 Vamos Conectar?  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/miguelmenezes99"><img align="center" alt="LinkedIn" height="30" width="auto" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>   
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/menezesgmiguel"><img align="center" alt="LinkedIn" height="30" width="auto" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" style="max-width: 100%;"></a>   
 **E-mail**: miguelmenezes99@hotmail.com  
