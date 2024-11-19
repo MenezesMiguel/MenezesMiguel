@@ -28,7 +28,7 @@ Estou em busca de desafios que me ajudem a me formar como um profissional integr
 ---
 
 ### 📈 Estatísticas do GitHub  
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MenezesMiguel&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MenezesMiguel&layout=compact&theme=radical)
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MenezesMiguel&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=onedark)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MenezesMiguel&layout=compact&theme=onedark)
 
 ---
 
